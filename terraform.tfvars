@@ -1,0 +1,8 @@
+region= "us-east-1"
+vpc_cidr= "192.168.0.0/16"
+public1_subnet_cidr= "192.168.10.0/24"
+public2_subnet_cidr= "192.168.20.0/24"
+private1_subnet_cidr= "192.168.100.0/24"
+private2_subnet_cidr= "192.168.200.0/24"
+ami= "ami-0440d3b780d96b29d"
+instance_type= "t2.micro"
