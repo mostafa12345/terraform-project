@@ -41,7 +41,7 @@ To install and run the project, follow these steps:
 
     Clone the repository to your local machine:
 
-    git clone https://github.com/SamMelad/Terraform_Project.git
+    git clone https://github.com/mostafa12345/terraform-project.git
 
 Navigate to the project directory:
 
